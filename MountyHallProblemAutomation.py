@@ -1,8 +1,11 @@
 import random
 
+import Range as Range
+
+
 def FirstPhase():
 
-    MaxTries = 1000000
+    MaxTries = 10000000
     totalTries = 0
     failedTries = 0
 
